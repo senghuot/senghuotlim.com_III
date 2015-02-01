@@ -304,7 +304,8 @@ hr {
 --- Socials Icons
 ============================ */
 #socials {
-  width: 510px;
+  width: 500px;
+  height: 30px;
   margin: 20px auto 40px auto;
 }
 
@@ -313,7 +314,6 @@ hr {
 ============================ */
 
 .intro {
-	width:100%;
 	position:relative;
   background-image: url('../img/bg2.jpg');
   background-size: 100%;
@@ -325,7 +325,6 @@ hr {
 
 .intro .slogan {
 	text-align: center;
-
 }
 
 .intro .page-scroll {
@@ -371,11 +370,8 @@ hr {
   background-image: url(../img/bg-banner.gif);
 }
 
-.about-box {
-  background-color: white;
-}
-
 .about-box-desc {
+  background-color: white;
   padding: 30px 10px 10px 10px;
 }
 
@@ -849,11 +845,11 @@ Parallax
   background-color: #ECECEC;
 }
 
-.experience-box, .project-box {
+.experience-box{
   transition: all .2s ease-in-out;
 }
 
-.experience-box:hover, .project-box:hover {
+.experience-box:hover{
   transform: scale(1.1);
 }
 
