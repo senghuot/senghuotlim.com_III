@@ -315,8 +315,7 @@ hr {
 
 .intro {
 	position:relative;
-  background-image: url('../img/bg2.jpg');
-  background-size: 100% 100%;
+  background-image: url('../img/pattern2.png');
 }
 
 #intro.intro {
@@ -835,14 +834,12 @@ Parallax
 }
 
 #experience {
-  background-color: #336E7B;
-  background-image: url("../img/pattern4.png");
-  color: white;
+  background-color: #ECECEC;
+  color: #22313F;
 }
 
 #project {
   color: #22313F;
-  background-color: #ECECEC;
 }
 
 .experience-box{
