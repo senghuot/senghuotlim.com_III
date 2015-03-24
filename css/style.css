@@ -834,6 +834,7 @@ Parallax
 }
 
 #experience {
+  background-image: url('../img/pattern8.png');
   background-color: #ECECEC;
   color: #22313F;
 }
