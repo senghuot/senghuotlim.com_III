@@ -28,6 +28,11 @@ h6 {
     letter-spacing: 1px;
 }
 
+#typed {
+  font-size: 25px;
+  color: white;
+}
+
 p {
     margin: 0 0 20px;
     font-size: 17px;
@@ -812,6 +817,9 @@ Parallax
     -webkit-animation: blink 0.7s infinite;
     -moz-animation: blink 0.7s infinite;
     animation: blink 0.7s infinite;
+    font-size: 25px;
+    color: white;
+    padding-left: 5px;
 }
 @keyframes blink{
     0% { opacity:1; }

@@ -38,8 +38,7 @@
 	
   $(function(){
     $("#typed").typed({
-      strings: ["Print(\"Hello World!\");", "You're Awesome and everybody should know it...",
-      						"Let's build something kool together &#9786;"],
+      strings: ["Microservices Enthusiast - Medium.com/@scottielim"],
       typeSpeed: 50
     });
   });
