@@ -38,7 +38,7 @@
 	
   $(function(){
     $("#typed").typed({
-      strings: ["Microservices Enthusiast - Medium.com/@scottielim"],
+      strings: ["Software Engineer - Medium.com/@scottielim"],
       typeSpeed: 50
     });
   });
